@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab#2</string>
+    <string name="snack_message">La case à cocher est maintenant\n</string>
+    <string name="toast_message">Le libellé a été mis à jour.\n</string>
+    <string name="android_message">J\'adore Android</string>
+    <string name="press_message">Appuie-moi</string>
+    <string name="check_message">Vérifie ça !</string>
+    <string name="switch_message">Activer/Désactiver</string>
+    <string name="flag_desc">Drapeau des États-Unis</string>
+</resources>
